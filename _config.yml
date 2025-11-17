@@ -1,5 +1,5 @@
 title: Website for My Python Portfolio
-description: A collection of 7 Python exercises published using GitHub Pages and Jekyll Hacker Theme.
+description: A collection of 7 Python exercises published using GitHub Pages and Jekyll Cayman Theme.
 
 url: "https://canankilic.github.io"
 baseurl: "/github_website"
@@ -19,7 +19,3 @@ header_pages:
   - calender.md
   - hello.md
 
-theme_settings:
-accent_color: "#00FF99"
-header_background: "#000000"
-link_color: "#00FFAA"
