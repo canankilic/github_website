@@ -4,7 +4,7 @@ description: A collection of 7 Python exercises published using GitHub Pages and
 url: "https://canankilic.github.io"
 baseurl: "/github_website"
 
-remote_theme: pages-themes/tactile
+remote_theme: pages-themes/modernist
 
 markdown: kramdown
 plugins:
