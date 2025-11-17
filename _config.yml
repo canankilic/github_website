@@ -1,0 +1,20 @@
+title: My Python Portfolio
+description: A collection of 7 Python exercises published using GitHub Pages and Jekyll.
+
+url: "https://canankilic.github.io"
+baseurl: "/github_website"
+
+remote_theme: pages-themes/minimal
+
+markdown: kramdown
+plugins:
+  - jekyll-remote-theme
+
+header_pages:
+  - exercise1.md
+  - exercise2.md
+  - exercise3.md
+  - bma.md
+  - calculator.md
+  - calender.md
+  - hello.md
