@@ -1,14 +1,12 @@
-title: Website for My Python Portfolio
-description: A collection of 7 Python exercises published using GitHub Pages and Jekyll Cayman Theme.
+title: Website for My Python Portfolio Canan Kilic 80307
+description: A collection of Python exercises published using GitHub Pages. Assignments 2 and 3 include a Jekyll presentation and the Jekyll Cayman theme.
 
 url: "https://canankilic.github.io"
 baseurl: "/github_website/assignment2"
 
-remote_theme: pages-themes/cayman
+theme: jekyll-theme-cayman
 
 markdown: kramdown
-plugins:
-  - jekyll-remote-theme
 
 header_pages:
   - exercise1.md
@@ -18,4 +16,3 @@ header_pages:
   - calculator.md
   - calender.md
   - hello.md
-
