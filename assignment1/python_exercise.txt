@@ -1,0 +1,2 @@
+This website contains different basic level python examples and a Jekyll presentation.
+Author: Canan Kilic - Internet Technologies Project
