@@ -2,7 +2,7 @@ title: Website for My Python Portfolio
 description: A collection of 7 Python exercises published using GitHub Pages and Jekyll Cayman Theme.
 
 url: "https://canankilic.github.io"
-baseurl: "/github_website"
+baseurl: "/github_website/assignment2"
 
 remote_theme: pages-themes/cayman
 
