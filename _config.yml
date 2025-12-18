@@ -1,6 +1,15 @@
-title: Website for My Python Portfolio - Canan Kilic
-description: A collection of Python exercises, a presentation for Assignment 2 and pipeline for Assignment 3.
 remote_theme: pages-themes/cayman
+title: Website for My Python Portfolio
+description: A collection of 7 Python exercises.
 
-baseurl: "/github_website"
-url: "https://canankilic.github.io"
+baseurl: ""
+url: ""
+
+include:
+  - exercise1.md
+  - exercise2.md
+  - exercise3.md
+  - bma.md
+  - calculator.md
+  - calender.md
+  - hello.md
