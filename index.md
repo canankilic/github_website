@@ -2,7 +2,7 @@ A collection of Python exercises published using GitHub Pages. Assignments 2 and
 
 ## Pages
 - [Assignment 2 Presentation](assignment2/) 
-- [Exercise 1](exercise1)
+- [Exercise 1](/exercise1)
 - [Exercise 2](exercise2)
 - [Exercise 3](exercise3)
 - [Calculator](calculator)
