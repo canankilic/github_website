@@ -1,4 +1,4 @@
-A collection of Python exercises published using GitHub Pages. Assignments 2 and 3 include a Jekyll presentation and the Jekyll Cayman theme.
+A collection of Python exercises published using GitHub pages. Assignments 2 and 3 include a Jekyll presentation and the Jekyll Cayman theme.
 
 ## Pages
 - [Assignment 2 Presentation](assignment2/)
