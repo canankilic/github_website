@@ -3,7 +3,7 @@ theme: jekyll-theme-cayman
 title: Website for My Python Portfolio - Canan Kilic 80307
 description: A collection of 7 Python exercises published using GitHub Pages and Jekyll Cayman Theme.
 
-baseurl: ""
-url: ""
+baseurl: "/github_website"
+url: "https://canankilic.github.io"
 
 markdown: kramdown
