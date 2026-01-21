@@ -1,8 +1,11 @@
-#x = int(input("Enter first input x: "))
-#y = int(input("Enter second input y: "))
+---
+layout: default
+title: Data Type Finder
+---
 
-#print("x is", x, "and y is", y)
+This example shows different Python data types and prints their types.
 
+```python
 x = 25
 y = 3.14
 z = "python"
@@ -10,3 +13,4 @@ z = "python"
 print(type(x))
 print(type(y))
 print(type(z))
+```
