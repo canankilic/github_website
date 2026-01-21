@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>{{ page.title }} | {{ site.title }}</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+</head>
+
+<body>
+
+<header class="page-header">
+  <h1 class="project-name">{{ site.title }}</h1>
+  <h2 class="project-tagline">{{ site.description }}</h2>
+
+  <nav style="margin-top:15px;">
+    <a href="{{ '/' | relative_url }}">Home</a> |
+    <a href="{{ '/exercise1' | relative_url }}">Exercise 1</a> |
+    <a href="{{ '/exercise2' | relative_url }}">Exercise 2</a> |
+    <a href="{{ '/exercise3' | relative_url }}">Exercise 3</a> |
+    <a href="{{ '/assignment2/' | relative_url }}">Presentation</a>
+  </nav>
+</header>
+
+<main class="main-content">
+  {{ content }}
+</main>
+
+<footer class="site-footer">
+  <span class="site-footer-owner">
+    © {{ site.title }}
+  </span>
+</footer>
+
+</body>
+</html>
