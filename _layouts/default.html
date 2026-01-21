@@ -1,47 +1,25 @@
-<header class="page-header">
-  <h1 class="project-name">{{ site.title }}</h1>
-  <h2 class="project-tagline">{{ site.description }}</h2>
+<nav style="margin-top:15px;">
+  <a href="{{ '/' | relative_url }}"
+     style="color:white; font-weight:bold; margin-right:10px;">Home</a>|
 
-  <nav class="navbar">
-    <ul>
-      <li><a href="{{ '/' | relative_url }}">Home</a></li>
-      <li><a href="{{ '/exercise1' | relative_url }}">Data Types</a></li>
-      <li><a href="{{ '/exercise2' | relative_url }}">Circle Perimeter</a></li>
-      <li><a href="{{ '/exercise3' | relative_url }}">Time Converter</a></li>
-      <li><a href="{{ '/calculator' | relative_url }}">Calculator</a></li>
-      <li><a href="{{ '/calender' | relative_url }}">Calendar</a></li>
-      <li><a href="{{ '/bma' | relative_url }}">BMI Calculator</a></li>
-      <li><a href="{{ '/assignment2/' | relative_url }}">Presentation</a></li>
-    </ul>
-  </nav>
-</header>
+  <a href="{{ '/exercise1' | relative_url }}"
+     style="color:white; font-weight:bold; margin-right:10px;">Data Types</a>|
 
-<style>
-.navbar {
-  margin-top: 15px;
-}
+  <a href="{{ '/exercise2' | relative_url }}"
+     style="color:white; font-weight:bold; margin-right:10px;">Circle Perimeter</a>|
 
-.navbar ul {
-  list-style: none;
-  padding: 0;
-  display: flex;
-  gap: 15px;
-}
+  <a href="{{ '/exercise3' | relative_url }}"
+     style="color:white; font-weight:bold; margin-right:10px;">Time Converter</a>|
 
-.navbar ul li {
-  
-}
+  <a href="{{ '/calculator' | relative_url }}"
+     style="color:white; font-weight:bold; margin-right:10px;">Calculator</a>|
 
-.navbar ul li a {
-  text-decoration: none;
-  color: white;
-  font-weight: bold;
-  padding: 5px 10px;
-  border-radius: 5px;
-  transition: background 0.3s;
-}
+  <a href="{{ '/calender' | relative_url }}"
+     style="color:white; font-weight:bold; margin-right:10px;">Calendar</a>|
 
-.navbar ul li a:hover {
-  background: rgba(255, 255, 255, 0.2);
-}
-</style>
+  <a href="{{ '/bma' | relative_url }}"
+     style="color:white; font-weight:bold; margin-right:10px;">BMI Calculator</a>|
+
+  <a href="{{ '/assignment2/' | relative_url }}"
+     style="color:white; font-weight:bold;">Presentation</a>
+</nav>
