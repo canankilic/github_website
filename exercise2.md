@@ -1,15 +1,15 @@
-#a = 56
-#b = 20
-#a,b = b,a
-#print("a = ", a, "b = ", b)
+---
+layout: default
+title: Exercise 2 – Swap and Circle Perimeter
+---
 
-#num = "40.55"
-#converted = float(num)
-#print(converted, type(converted))
+This program calculates the perimeter of a circle using a given radius.
 
+```python
 pi = 3.14159
 radius = 9
 
-perimeter = 2*pi*radius
+perimeter = 2 * pi * radius
 
-print("Perimeter of the circle = ", perimeter)
+print("Perimeter of the circle =", perimeter)
+```
