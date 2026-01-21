@@ -1,11 +1,16 @@
+---
+layout: default
+title: Calendar and Age
+---
+
+This program prints today’s date and asks the user for their age.
+
+```python
 import datetime
 
 today = datetime.date.today()
-#tomorrow = today + datetime.timedelta(days=1)
-
 print("Today's date is:", today)
-#print("Tomorrow's date is:", tomorrow)
 
 age = int(input("Enter your age: "))
-
-print("Your age is ", age, "years old.")
+print("Your age is", age, "years old.")
+```
