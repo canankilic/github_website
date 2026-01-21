@@ -3,9 +3,9 @@ layout: default
 title: Home
 ---
 
-A collection of Python exercises published using GitHub Pages.
+A curated collection of Python exercises hosted using GitHub Pages with the Jekyll Cayman theme.  
+Each exercise demonstrates a specific Python concept with clear examples and practical implementations.
 
-Assignments 2 and 3 include a Jekyll presentation and the Cayman theme.
 
 ## Pages
 
